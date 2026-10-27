@@ -1,0 +1,8 @@
+/bin/
+/dist/
+*.exe
+*.old
+*.bak
+.directory
+.DS_Store
+
